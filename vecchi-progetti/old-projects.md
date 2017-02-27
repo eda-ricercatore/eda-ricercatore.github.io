@@ -76,7 +76,9 @@ Files: [vparse.pl](https://github.com/eda-ricercatore/PicenoDecoders/blob/master
 
 
 
+### VHDL Design of 32-bit Multiplier
 
+The behavioral *VHDL* design of an unsigned 32-bit multiplier and its testbench is provided as follows: [mult32.vhd](./vlsi-design-projects/mult32.vhd) and [mult32_tb.vhd](./vlsi-design-projects/mult32_tb.vhd).
 
 
 
