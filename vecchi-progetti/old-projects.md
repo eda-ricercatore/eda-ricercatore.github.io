@@ -36,13 +36,13 @@ Files: [vparse.pl](https://github.com/eda-ricercatore/PicenoDecoders/blob/master
 
 ##	Software Projects
 
-###	A Trivial Java Program to Demonstrate Some Programming Concepts
+###	A Trivial *Java* Program to Demonstrate Some Programming Concepts
 
-See attached ZIP file for the program: Trivial.zip
+See attached ZIP file for the program: [Trivial.zip](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/vecchi-progetti/simple-programs/Trivial.zip)
 
-To run this program in a UNIX environment, try: make all
+To run this program in a *UNIX* environment, try: *make all*
 
-It includes implementation of a Java Interface, uses methods from the Java API, and uses abstraction and modularity in the design of the software.
+It includes implementation of a *Java* interface, uses methods from the *Java API*, and uses abstraction and modularity in the design of the software.
 
 
 
