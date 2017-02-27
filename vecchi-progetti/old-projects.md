@@ -26,6 +26,17 @@
 
 
 
+###	SRAM Design
+
+Designed a 32-kbit synchronous SRAM with 32-bit words, using 180 nm process technology.
+
+Developed *MATLAB* scripts to evaluate architectural trade-offs between performance (using logical effort analysis) and area usage; see [Modica-SRAM](https://github.com/eda-ricercatore/Modica-SRAM) for the *HSPICE* decks and *MATLAB* scripts that are used during architectural trade-off evaluation, and characterization of inverters for different supply voltages (VDD) and temperatures. It also includes *HSPICE* decks for the characterization of the 6-transistor SRAM cell for different transistor ratios, and the SRAM read and write circuitry.
+
+Co-designed and co-developed the SRAM using schematic entry in *Cadence Virtuoso*.
+
+Performed functional and timing verfication by simulating extracted *SPICE* netlist in *NanoSim*.
+
+See [EE577b_SRAMII_AJM_ZO_20071026144055528.pdf](./vlsi-design-projects/Viterbi_decoder_AJM_ZO.pdf) for a report of this SRAM project.
 
 
 
