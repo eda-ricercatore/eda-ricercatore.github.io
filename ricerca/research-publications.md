@@ -20,7 +20,9 @@ X. Ma, **Z. Ong**, A. Aziz, and W. Nowinski, "Smart Catheter for Interventional 
 
 **Z. Ong**, "A study of the trade-off between pleiotropy and redundancy, using evolutionary computation," School of Electrical and Electronic Engineering, University of Adelaide, Bachelor of Engineering - Honors Thesis, May 2005.
 [Draft](./uni-adelaide/zhiyangThesis.pdf)
-
+[Proposal](./uni-adelaide/proposal_final.pdf)
+[Slides for Honors thesis defence](./uni-adelaide/fyp_seminar_v0.6.ppt)
+[Source code for my honors (thesis) project](https://github.com/eda-ricercatore/NetSim)
 
 
 **Z. Ong** and S. F. Al-Sarawi, "Surgical application of MEMS devices," in Proceedings of SPIE Smart Structures, Devices, and Systems II, vol. 5649, Sydney, Australia, pp. 849-860, 12-15 December, 2004.} [DOI](http://dx.doi.org/10.1117/12.609912)
