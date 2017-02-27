@@ -143,6 +143,11 @@ A signal is frequency modulated FM, and transmitted across a noisy channel. This
 ##	Samples of Technical Writing 
 
 
+###	Crosstalk-aware Gate Sizing using Simulated Annealing
+
+See attached paper for a description of my co-developed project: [iccd2.pdf](./technical-writing/iccd2.pdf)
+
+
 ###	Revision Notes about Computer Architecture
 
 [Reports about computer architecture](https://github.com/eda-ricercatore/Treviso-Arch)
@@ -170,9 +175,6 @@ In this internship, I also wrote FAQs for *Sun Solaris* and the *vi* text editor
 
 
 
-###	Crosstalk-aware Gate Sizing using Simulated Annealing
-
-See attached paper for a description of my co-developed project: [iccd2.pdf](./technical-writing/iccd2.pdf)
 
 
 ###	User Manual for the MazeBot
