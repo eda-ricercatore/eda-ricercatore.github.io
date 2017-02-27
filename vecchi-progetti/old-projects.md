@@ -132,15 +132,34 @@ A signal is frequency modulated FM, and transmitted across a noisy channel. This
 
 
 
+##	Samples of Technical Writing 
+
+###	Crosstalk-aware Gate Sizing using Simulated Annealing
+
+See attached paper for a description of my co-developed project: [iccd2.pdf](./technical-writing/iccd2.pdf)
+
+
+###	User Manual for the MazeBot
+
+In one of my software engineering classes at my alma mater, the University of Adelaide, my team had to write several software documents, such as the following: software requirements specification (SRS), software project management plan (SPMP), software design description (SDD), and user manual. The SRS, SPMP, and SDD were written based on suggested templates from IEEE standards. I oversaw the write-up for the SDD, and wrote sections for the SRS, SPMP, and SDD. In addition, I wrote the user manual, which was edited by Craig Eales. File [UserManual.pdf](./technical-writing/UserManual.pdf)
+
+The MazeBot software is a combination of Java software and embedded software written in C that controls the motions of a robot/micromouse around a maze. The robot is supposed to traverse a maze, and map the maze and the Java software hosted on a Sun Solaris workstation should display the map, including the current position and orientation of the robot after some delay. Subsequently, the micromouse should traverse from a corner of the maze to its center and to another corner of the maze selected by the user of the Java software. The use of this software system can interact with it using the GUI (graphical user interface) based on Java Swing.
+
+###	The Bar Code Innovation
+ 
+ [Paper on innovation that I wrote for a class on introductory engineering management and intellectual property (IP) law](./technical-writing/the_bar_code_innovation.pdf)
+
+Each student, or pair of students, had to pick an innovation to write about. My teammate, Ben Kaye, and I decided to work on the bar code, which is an ingenious innovation. It is pervasive and exists in most products sold in stores. It had grown from an infeasible idea to becoming a cost-effective solution for managing the supply chain. It is a cheap technology that has brought about dramatic cost savings for inventory management and the retail industry... For me, this is another exposure to the use of simple solutions in solving complex problems. Unfortunately, I am still learning how to develop simpler (and more elegant) solutions for solving problems, rather build magic/silver bullets or one-size-fit-all solution.   
 
 
 
+###	A Comparison Between Software and VLSI Test Automation
 
+I was required to write a report for my internship at *Symantec*. I proposed to my advisor for my internship class that I write about the similarities and differences between software and VLSI test automation: [A comparison between software and VLSI test automation](./technical-writing/zhiyang_internship_report2.pdf)
 
+When I took the class titled, "Introduction to Software Engineering" at my alma mater, the University of Adelaide, my curiosity was piqued by how the concepts that I learned in software verification, validation, and testing can also be applied to testing electronics. I was also fortunate to be introduced to formal methods by [Dr. Charles Lakos](http://cs.adelaide.edu.au/~charles/), and subsequently, formal verification by [Dr. Rob Esser](http://cs.adelaide.edu.au/~esser/) in my "Software Engineering and Project" class; to my knowledge, Dr Esser is currently a director with Xilinx in Ireland.
 
-
-
-
+However, it wasn't until the winter break of 2004, when I buried myself in the Barr Smith Library, and browsed through "random" journals, conference proceedings, and magazines that I started to delve into looking how similar software engineering and VLSI design are. I was initially looking for material for various topics that I can pick for my Honours/senior thesis, or garner ideas about areas that I would like to do research in when I go to graduate school. 
 
 
 
