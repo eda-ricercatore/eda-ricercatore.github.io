@@ -29,7 +29,7 @@ Prof. Abbott met Bill Clinton, and took a photograph with Bill.
 
 #	Return to Home Page
 
-[Return to Home Page](./README.md)
+[Return to Home Page](../README.md)
 
 #	Author Information
 
