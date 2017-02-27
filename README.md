@@ -12,12 +12,17 @@
 + A former student athlete
 + A former squatter in the Bihari backwaters of electronic design automation
 
-## Research Interests
+##	Research Interests
 
++ Noise-based logic
 + Electronic design automation
 + Formal verification
 + Satisfiability modulo theories 
 + Microarchitecture
+
+##	Research Publications
+
+[My list of research publications can be found here.](./ricerca/research-publications.md)
 
 
 ##	Contact Information
@@ -36,6 +41,16 @@
 	be adequately expressed in *Markdown*.**
 
 **Similarly, *BibTeX* shall be used to cite resources used.**
+
+
+#	Old Projects
+
+[My list of old projects can be found here.](./vecchi-progetti/old-projects.md)
+
+
+
+
+
 
 
 #	References
