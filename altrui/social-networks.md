@@ -1,20 +1,35 @@
-#	Old Projects
+#	Random Notes About Social Networks: A Complex Systems Perspective 
+
+##	Small-World Networks
+
+Degree of separation between Dr. A. P. J. Abdul Kalam and me: 2 
+
+Dr. A. P. J. Abdul Kalam is the President of India, and he met Prof. Vijay K. Varadan. Prof. Derek Abbott, my senior thesis advisor, introduced me to Prof. Varadan.
+ 
+
+Degree of separation between Bill Clinton and me: 2  
+
+Prof. Abbott met Bill Clinton, and took a photograph with Bill. 
+
+
+
+ 
+
+ What is the degree of separation between you and I?
 
 
 
 
 
+##	Scale-Free Networks 
+
+ The world-wide web: Google your name, and determine the number of hits that contain information about you. What sort of opinions may people form of you by enumerating the search results?
 
 
 
+#	Return to Home Page
 
-
-
-
-
-
-
-
+[Return to Home Page](./README.md)
 
 #	Author Information
 
