@@ -29,6 +29,29 @@ Zhiyang Ong is:
 [Random notes on collaboration networks, including my Erdős number](./altrui/collaboration-dist.md)
 
 
+
+#	Writing Style
+
+*LaTeX* notation shall be used for typesetting information that cannot
+	be adequately expressed in *Markdown*.
+
+Similarly, *BibTeX* shall be used to cite resources of information
+	used.
+
+
+#	References
+
+Primarily, I used *Markdown* to design/develop this web page. 
+
+I used \cite{Xie2017,Gruber2004} as references for *Markdown*.
+
+[The list of references, in BibTeX format, used.](./altrui/references.bib)
+
+Additional references not found in the reference list shall be
+	indicated below (**TO BE UPDATED**).
+
+
+
 #	Author Information
 
 The MIT License (MIT)
