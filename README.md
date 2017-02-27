@@ -35,6 +35,8 @@
 
 [Random notes about social networks: A complex systems perspective](./altrui/social-networks.md)
 
+[A repository for my *LaTeX* templates](https://github.com/eda-ricercatore/SienaLaTeX). This contains templates for *LaTeX* documents that I tend to create, *LaTeX* structures that I tend to use (such as tables, lists, and figures), and *LaTeX* commands.
+
 [Presentation slides for various talks/presentations that I have given](https://github.com/eda-ricercatore/scafati-presentazioni)
 
 #	Writing Style
