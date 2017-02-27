@@ -1,7 +1,9 @@
 #	Old Projects
 
 
+Sample Python script to generate synthesizable behavioral RTL for a digital combinational circuit to sort numbers (a list of integers). The RTL model for this circuit is based on the size of the list of integers (x), and the magnitude of the largest number in the list (y). File to generate to random numbers: [random_numbers.py](./sorting-circuits/random_numbers.py); and file to generate the behavioral RTL and its corresponding Verilog testbench [create.py](./sorting-circuits/create.py)
 
+Both Python scripts require the arguments x and y. Also, random_numbers.py generates an output file named numbers.txt, and the second script produces the files gensort.v (behavioral RTL) and gensorttb.v (testbench). It is assumed that the testbench reads in the file numbers.txt as the input file. If the input file containing a list of numbers to be sorted changes, this must be updated and reflected in the testbench and the Python script generating it. 
 
 
 
