@@ -59,7 +59,8 @@
 
 #	References
 
-**Primarily, I used *Markdown* to design/develop this web page.** 
+**Primarily, I used *Markdown* to design/develop this web page
+	\cite{Nguyen2014}.** 
 
 **I used \cite{Xie2017,Gruber2004} as references for *Markdown*.**
 
