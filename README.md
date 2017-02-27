@@ -35,19 +35,19 @@
 ***LaTeX* notation shall be used for typesetting information that cannot
 	be adequately expressed in *Markdown*.**
 
-** Similarly, *BibTeX* shall be used to cite resources used. **
+**Similarly, *BibTeX* shall be used to cite resources used.**
 
 
 #	References
 
-** Primarily, I used *Markdown* to design/develop this web page. ** 
+**Primarily, I used *Markdown* to design/develop this web page.** 
 
-** I used \cite{Xie2017,Gruber2004} as references for *Markdown*. **
+**I used \cite{Xie2017,Gruber2004} as references for *Markdown*.**
 
 [The list of references, in BibTeX format, used.](./altrui/references.bib)
 
-** Additional references not found in the reference list shall be
-	indicated below (**TO BE UPDATED**). **
+**Additional references not found in the reference list shall be
+	indicated below (**TO BE UPDATED**).**
 
 
 
