@@ -82,6 +82,11 @@ The behavioral *VHDL* design of an unsigned 32-bit multiplier and its testbench 
 
 
 
+###	Cycle-accurate SystemC Design of a Content-Addressable Memory (CAM) 
+
+Electronic system-level (ESL) implementation of a content-addressable memory (CAM). Source code for the cycle-accurate *SystemC* model of the CAM: [content_addr_mem.zip](./vlsi-design-projects/content_addr_mem.zip)
+
+This *SystemC* model is not completely verified yet. My ESL design environment crashed spectacularly while I was trying to simulate this design under a considerably extensive set of design conditions. 
 
 
 
