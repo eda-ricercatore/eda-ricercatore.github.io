@@ -28,7 +28,7 @@
 
 [Random notes on collaboration networks, including my Erdős number](./altrui/collaboration-dist.md)
 
-
+[Random notes about social networks: A complex systems perspective](./altrui/social-networks.md)
 
 #	Writing Style
 
@@ -47,7 +47,7 @@
 [The list of references, in BibTeX format, used.](./altrui/references.bib)
 
 **Additional references not found in the reference list shall be
-	indicated below (**TO BE UPDATED**).**
+	indicated below (*TO BE UPDATED*).**
 
 
 
