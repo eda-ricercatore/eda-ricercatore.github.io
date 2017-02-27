@@ -124,6 +124,27 @@ See: [scripts.zip](https://github.com/eda-ricercatore/eda-ricercatore.github.io/
 
 
 
+##	Other Projects in Electrical Engineering
+
+###	Modeling of Frequency Modulated Signal, Its Transmission, and Demodulation.
+
+A signal is frequency modulated FM, and transmitted across a noisy channel. This FM signal is subsequently demodulated in its phasor form, and the impact and effects of the noise on the signal's integrity is quantified by the signal to noise ratio (SNR)... Two modulating signals are used: a sinusoid and a filtered white Gaussian noise that is random. These modulating signals are modulated, and filtered by a Butterworth filter before demodulation; see [commass051b.m](./other-ee-projects/commass051b.m)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
