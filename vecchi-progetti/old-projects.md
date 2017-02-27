@@ -1,6 +1,6 @@
 #	Old Projects
 
-##	VLSI Design
+##	VLSI Design Projects
 
 ###	Digital Electronic Circuit for Sorting Numbers 
 
@@ -14,6 +14,53 @@ Both *Python* scripts require the arguments x and y. Also, random_numbers.py gen
 A *Perl* script is used to generate the synthesizable behavioral RTL for an encoder and a decoder for error correction using coding theory. The RTL is generated based on a given generator matrix or parity-check matrix. The *Perl* script processes the matrix that is stored in an input file, and creates the pair of corresponding generator and parity-check matrices. Next, these matrices are used to generate the RTL models for the encoder and the decoder.
 
 Files: [vparse.pl](https://github.com/eda-ricercatore/PicenoDecoders/blob/master/zhiyang_extra_credit_2/scripts/vparse.pl) (the *Perl* script), [read_me.md](https://github.com/eda-ricercatore/PicenoDecoders/blob/master/zhiyang_extra_credit_2/scripts/readme.md) (the *readme* file describing how to use the script, what does it do, and what does it not do), [input.txt](https://github.com/eda-ricercatore/PicenoDecoders/blob/master/zhiyang_extra_credit_2/scripts/input.txt) (a sample input text file containing a matrix), and [input_matrices.zip](https://github.com/eda-ricercatore/PicenoDecoders/blob/master/zhiyang_extra_credit_2/scripts/input_matrices.zip) (more files containing matrices). Note that the given generator matrix or parity-check matrix can have its columns rearranged.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##	Software Projects
+
+###	A Trivial Java Program to Demonstrate Some Programming Concepts
+
+See attached ZIP file for the program: Trivial.zip
+
+To run this program in a UNIX environment, try: make all
+
+It includes implementation of a Java Interface, uses methods from the Java API, and uses abstraction and modularity in the design of the software.
+
+
+
+
+###	Some Random C++ Programs
+
+See attached ZIP file for the programs: cpp_programs.zip
+
+
+
+
+###	Some Ruby and MATLAB Scripts that I have Written 
+
+See: scripts.zip, search.rb, find.rb, and get_food_diary.rb.
+
+
+
+
 
 
 
