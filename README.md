@@ -35,6 +35,8 @@
 
 [Random notes about social networks: A complex systems perspective](./altrui/social-networks.md)
 
+[Presentation slides for various talks/presentations that I have given](https://github.com/eda-ricercatore/scafati-presentazioni)
+
 #	Writing Style
 
 ***LaTeX* notation shall be used for typesetting information that cannot
