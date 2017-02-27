@@ -22,11 +22,11 @@ Zhiyang Ong is:
 
 ##	Contact Information
 
-[My email address is found in this link.](/altrui/contact-information.md)
+[My email address is found in this link.](./altrui/contact-information.md)
 
 ##	Miscellaneous Information
 
-[Random notes on collaboration networks, including my Erdős number]()
+[Random notes on collaboration networks, including my Erdős number](./altrui/collaboration-dist.md)
 
 
 #	Author Information
