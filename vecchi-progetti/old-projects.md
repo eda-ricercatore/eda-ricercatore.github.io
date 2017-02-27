@@ -162,6 +162,26 @@ When I took the class titled, "Introduction to Software Engineering" at my alma 
 However, it wasn't until the winter break of 2004, when I buried myself in the Barr Smith Library, and browsed through "random" journals, conference proceedings, and magazines that I started to delve into looking how similar software engineering and VLSI design are. I was initially looking for material for various topics that I can pick for my Honours/senior thesis, or garner ideas about areas that I would like to do research in when I go to graduate school. 
 
 
+###	UNIX Course Notes and Presentation Slides, and FAQs for Sun Solaris and the vi text editor
+
+During my first internship, I taught a brief *UNIX* course. The course notes and presentation slides are provided as follows: [UNIX_course_notes.pdf](UNIX_course_notes.pdf) and [UNIX_course_presentation_slides.pdf](UNIX_course_presentation_slides.pdf)
+
+In this internship, I also wrote FAQs for *Sun Solaris* and the *vi* text editor: [UNIX_FAQ.pdf](UNIX_FAQ.pdf) and [vi_faq.pdf](vi_faq.pdf)
+
+ These documents are under the copyright of the Institute of Microelectronics, Singapore (IME), and I have obtained permission to release documents I wrote about *UNIX*-like operating systems and their utilities. The *UNIX* scripts that I wrote for IME are "deemed as confidential and proprietary", and are part of IME's "intellectual properties". As such, I am not allowed to release them.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
