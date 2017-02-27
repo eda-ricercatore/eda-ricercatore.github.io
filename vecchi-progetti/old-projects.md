@@ -1,32 +1,19 @@
-#	Personal Information
-
-##	Biography
-
-Zhiyang Ong is:
-+ A cultural chameleon
-+ A third culture adult
-+ A multilingual globetrotter
-+ A global citizen
-+ An *IEEE-HKN* member
-+ A poet
-+ A former student athlete
-+ A former squatter in the Bihari backwaters of electronic design automation
-
-## Research Interests
-
-+ Electronic design automation
-+ Formal verification
-+ Satisfiability modulo theories 
-+ Microarchitecture
 
 
-##	Contact Information
 
-[My email address is found in this link.](/altrui/contact-information.md)
 
-##	Miscellaneous Information
 
-[Random notes on collaboration networks, including my Erdős number]()
+
+
+
+
+
+
+
+
+
+
+
 
 
 #	Author Information
