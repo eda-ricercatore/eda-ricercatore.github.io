@@ -164,9 +164,9 @@ However, it wasn't until the winter break of 2004, when I buried myself in the B
 
 ###	UNIX Course Notes and Presentation Slides, and FAQs for Sun Solaris and the vi text editor
 
-During my first internship, I taught a brief *UNIX* course. The course notes and presentation slides are provided as follows: [UNIX_course_notes.pdf](UNIX_course_notes.pdf) and [UNIX_course_presentation_slides.pdf](UNIX_course_presentation_slides.pdf)
+During my first internship, I taught a brief *UNIX* course. The course notes and presentation slides are provided as follows: [UNIX_course_notes.pdf](./technical-writing/UNIX_course_notes.pdf) and [UNIX_course_presentation_slides.pdf](./technical-writing/UNIX_course_presentation_slides.pdf)
 
-In this internship, I also wrote FAQs for *Sun Solaris* and the *vi* text editor: [UNIX_FAQ.pdf](UNIX_FAQ.pdf) and [vi_faq.pdf](vi_faq.pdf)
+In this internship, I also wrote FAQs for *Sun Solaris* and the *vi* text editor: [UNIX_FAQ.pdf](UNIX_FAQ.pdf) and [vi_faq.pdf](./technical-writing/vi_faq.pdf)
 
  These documents are under the copyright of the Institute of Microelectronics, Singapore (IME), and I have obtained permission to release documents I wrote about *UNIX*-like operating systems and their utilities. The *UNIX* scripts that I wrote for IME are "deemed as confidential and proprietary", and are part of IME's "intellectual properties". As such, I am not allowed to release them.
 
@@ -174,11 +174,15 @@ In this internship, I also wrote FAQs for *Sun Solaris* and the *vi* text editor
 
 
 
+###	Colpitts oscillator
+
+During one of the experimental sessions that I had to do as a sophomore in electronic circuits, control systems, RF hardware and systems, I had to design a Colpitts oscillator with a classmate. It is designed to operate at 20 MHz, and has a percentage total harmonic distortion (%THD) of about 1.3%; see [hfo3.pdf](./technical-writing/hfo3.pdf) 
 
 
 
+###	Synchronous AC machines
 
-
+For my class on electrical machines, and other topics related to electrical energy systems (such as the basics of electrical/power distribution networks), I had to carry out certain experiments with electrical machines (motors and generators), such as DC machines, asynchronous or induction AC machines, synchronous AC machines, and transformers. Here is a write-up for my experiment on synchronous AC machines: [prac4_ees.pdf](./technical-writing/prac4_ees.pdf)
 
 
 
