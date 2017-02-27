@@ -166,7 +166,7 @@ However, it wasn't until the winter break of 2004, when I buried myself in the B
 
 During my first internship, I taught a brief *UNIX* course. The course notes and presentation slides are provided as follows: [UNIX_course_notes.pdf](./technical-writing/UNIX_course_notes.pdf) and [UNIX_course_presentation_slides.pdf](./technical-writing/UNIX_course_presentation_slides.pdf)
 
-In this internship, I also wrote FAQs for *Sun Solaris* and the *vi* text editor: [UNIX_FAQ.pdf](UNIX_FAQ.pdf) and [vi_faq.pdf](./technical-writing/vi_faq.pdf)
+In this internship, I also wrote FAQs for *Sun Solaris* and the *vi* text editor: [UNIX_FAQ.pdf](./technical-writing/UNIX_FAQ.pdf) and [vi_faq.pdf](./technical-writing/vi_faq.pdf)
 
  These documents are under the copyright of the Institute of Microelectronics, Singapore (IME), and I have obtained permission to release documents I wrote about *UNIX*-like operating systems and their utilities. The *UNIX* scripts that I wrote for IME are "deemed as confidential and proprietary", and are part of IME's "intellectual properties". As such, I am not allowed to release them.
 
