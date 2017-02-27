@@ -32,8 +32,8 @@
 
 #	Writing Style
 
-** *LaTeX* notation shall be used for typesetting information that cannot
-	be adequately expressed in *Markdown*. **
+***LaTeX* notation shall be used for typesetting information that cannot
+	be adequately expressed in *Markdown*.**
 
 ** Similarly, *BibTeX* shall be used to cite resources used. **
 
