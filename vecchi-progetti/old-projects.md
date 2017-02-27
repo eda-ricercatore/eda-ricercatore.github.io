@@ -54,9 +54,9 @@ See attached ZIP file for the programs: [cpp_programs.zip](https://github.com/ed
 
 
 
-###	Some Ruby and MATLAB Scripts that I have Written 
+###	Some Ruby and MATLAB Scripts that I have Written
 
-See: scripts.zip, search.rb, find.rb, and get_food_diary.rb.
+See: [scripts.zip](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/vecchi-progetti/simple-programs/scripts.zip), [search.rb](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/vecchi-progetti/simple-programs/search.rb), [find.rb](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/vecchi-progetti/simple-programs/find.rb), and [get_food_diary.rb](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/vecchi-progetti/simple-programs/get_food_diary.rb).
 
 
 
