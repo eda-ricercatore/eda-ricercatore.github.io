@@ -20,6 +20,9 @@ Zhiyang Ong is:
 + Microarchitecture
 
 
+##	Contact Information
+
+[My email address is found in this link.](/altrui/contact-information.md)
 
 
 #	Author Information
