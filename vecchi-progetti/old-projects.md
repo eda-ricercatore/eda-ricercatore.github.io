@@ -142,22 +142,10 @@ A signal is frequency modulated FM, and transmitted across a noisy channel. This
 
 ##	Samples of Technical Writing 
 
-###	Crosstalk-aware Gate Sizing using Simulated Annealing
 
-See attached paper for a description of my co-developed project: [iccd2.pdf](./technical-writing/iccd2.pdf)
+###	Revision Notes about Computer Architecture
 
-
-###	User Manual for the MazeBot
-
-In one of my software engineering classes at my alma mater, the University of Adelaide, my team had to write several software documents, such as the following: software requirements specification (SRS), software project management plan (SPMP), software design description (SDD), and user manual. The SRS, SPMP, and SDD were written based on suggested templates from IEEE standards. I oversaw the write-up for the SDD, and wrote sections for the SRS, SPMP, and SDD. In addition, I wrote the user manual, which was edited by Craig Eales. File [UserManual.pdf](./technical-writing/UserManual.pdf)
-
-The MazeBot software is a combination of Java software and embedded software written in C that controls the motions of a robot/micromouse around a maze. The robot is supposed to traverse a maze, and map the maze and the Java software hosted on a Sun Solaris workstation should display the map, including the current position and orientation of the robot after some delay. Subsequently, the micromouse should traverse from a corner of the maze to its center and to another corner of the maze selected by the user of the Java software. The use of this software system can interact with it using the GUI (graphical user interface) based on Java Swing.
-
-###	The Bar Code Innovation
- 
- [Paper on innovation that I wrote for a class on introductory engineering management and intellectual property (IP) law](./technical-writing/the_bar_code_innovation.pdf)
-
-Each student, or pair of students, had to pick an innovation to write about. My teammate, Ben Kaye, and I decided to work on the bar code, which is an ingenious innovation. It is pervasive and exists in most products sold in stores. It had grown from an infeasible idea to becoming a cost-effective solution for managing the supply chain. It is a cheap technology that has brought about dramatic cost savings for inventory management and the retail industry... For me, this is another exposure to the use of simple solutions in solving complex problems. Unfortunately, I am still learning how to develop simpler (and more elegant) solutions for solving problems, rather build magic/silver bullets or one-size-fit-all solution.   
+[Reports about computer architecture](https://github.com/eda-ricercatore/Treviso-Arch)
 
 
 
@@ -177,6 +165,27 @@ During my first internship, I taught a brief *UNIX* course. The course notes and
 In this internship, I also wrote FAQs for *Sun Solaris* and the *vi* text editor: [UNIX_FAQ.pdf](./technical-writing/UNIX_FAQ.pdf) and [vi_faq.pdf](./technical-writing/vi_faq.pdf)
 
  These documents are under the copyright of the Institute of Microelectronics, Singapore (IME), and I have obtained permission to release documents I wrote about *UNIX*-like operating systems and their utilities. The *UNIX* scripts that I wrote for IME are "deemed as confidential and proprietary", and are part of IME's "intellectual properties". As such, I am not allowed to release them.
+
+
+
+
+
+###	Crosstalk-aware Gate Sizing using Simulated Annealing
+
+See attached paper for a description of my co-developed project: [iccd2.pdf](./technical-writing/iccd2.pdf)
+
+
+###	User Manual for the MazeBot
+
+In one of my software engineering classes at my alma mater, the University of Adelaide, my team had to write several software documents, such as the following: software requirements specification (SRS), software project management plan (SPMP), software design description (SDD), and user manual. The SRS, SPMP, and SDD were written based on suggested templates from IEEE standards. I oversaw the write-up for the SDD, and wrote sections for the SRS, SPMP, and SDD. In addition, I wrote the user manual, which was edited by Craig Eales. File [UserManual.pdf](./technical-writing/UserManual.pdf)
+
+The MazeBot software is a combination of Java software and embedded software written in C that controls the motions of a robot/micromouse around a maze. The robot is supposed to traverse a maze, and map the maze and the Java software hosted on a Sun Solaris workstation should display the map, including the current position and orientation of the robot after some delay. Subsequently, the micromouse should traverse from a corner of the maze to its center and to another corner of the maze selected by the user of the Java software. The use of this software system can interact with it using the GUI (graphical user interface) based on Java Swing.
+
+###	The Bar Code Innovation
+ 
+ [Paper on innovation that I wrote for a class on introductory engineering management and intellectual property (IP) law](./technical-writing/the_bar_code_innovation.pdf)
+
+Each student, or pair of students, had to pick an innovation to write about. My teammate, Ben Kaye, and I decided to work on the bar code, which is an ingenious innovation. It is pervasive and exists in most products sold in stores. It had grown from an infeasible idea to becoming a cost-effective solution for managing the supply chain. It is a cheap technology that has brought about dramatic cost savings for inventory management and the retail industry... For me, this is another exposure to the use of simple solutions in solving complex problems. Unfortunately, I am still learning how to develop simpler (and more elegant) solutions for solving problems, rather build magic/silver bullets or one-size-fit-all solution.   
 
 
 
