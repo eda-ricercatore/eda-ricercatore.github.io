@@ -39,6 +39,9 @@
 
 [Presentation slides for various talks/presentations that I have given](https://github.com/eda-ricercatore/scafati-presentazioni)
 
+Other helpful information:
++ Use *Print Friendly & PDF* to print web pages \cite{Norrish20XY}. 
+
 [**View this in my *GitHub* repository**](https://github.com/eda-ricercatore/eda-ricercatore.github.io)
 
 #	Writing Style
@@ -67,6 +70,9 @@
 **I used \cite{Xie2017,Gruber2004} as references for *Markdown*.**
 
 [The list of references, in BibTeX format, used.](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/altrui/references.bib)
+
+Citations/References that use the *LaTeX/BibTeX* notation are taken
+	from my *BibTeX* database (set of *BibTeX* entries).
 
 **Additional references not found in the reference list shall be
 	indicated below (*TO BE UPDATED*).**
