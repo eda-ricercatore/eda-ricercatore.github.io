@@ -40,7 +40,7 @@
 [Presentation slides for various talks/presentations that I have given](https://github.com/eda-ricercatore/scafati-presentazioni)
 
 Other helpful information:
-+ Use *Print Friendly & PDF* to print web pages \cite{Norrish20XY}. 
++ [Use *Print Friendly & PDF* to print web pages \cite{Norrish20XY}](https://www.printfriendly.com) 
 
 [**View this in my *GitHub* repository**](https://github.com/eda-ricercatore/eda-ricercatore.github.io)
 
