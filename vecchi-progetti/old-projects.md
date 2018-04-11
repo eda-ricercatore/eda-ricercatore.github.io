@@ -36,7 +36,7 @@ Co-designed and co-developed the SRAM using schematic entry in *Cadence Virtuoso
 
 Performed functional and timing verfication by simulating extracted *SPICE* netlist in *NanoSim*.
 
-See [EE577b_SRAMII_AJM_ZO_20071026144055528.pdf](./vlsi-design-projects/Viterbi_decoder_AJM_ZO.pdf) for a report of this SRAM project.
+See [sram.pdf](./sram/sram.pdf) for a report of this SRAM project.
 
 
 
