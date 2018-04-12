@@ -39,7 +39,7 @@
 
 [Presentation slides for various talks/presentations that I have given](https://github.com/eda-ricercatore/scafati-presentazioni)
 
-[View this in my *GitHub* repository](https://github.com/eda-ricercatore/eda-ricercatore.github.io)
+[**View this in my *GitHub* repository**](https://github.com/eda-ricercatore/eda-ricercatore.github.io)
 
 #	Writing Style
 
