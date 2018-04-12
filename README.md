@@ -64,7 +64,7 @@
 
 **I used \cite{Xie2017,Gruber2004} as references for *Markdown*.**
 
-[The list of references, in BibTeX format, used.](./altrui/references.bib)
+[The list of references, in BibTeX format, used.](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/altrui/references.bib)
 
 **Additional references not found in the reference list shall be
 	indicated below (*TO BE UPDATED*).**
