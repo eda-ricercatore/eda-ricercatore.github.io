@@ -31,6 +31,8 @@
 
 ##	Miscellaneous Information
 
+[Resources (including scholarships) for broadening participation of women an underrepresented groups in science and engineering, especially electrical/computer engineering and computer science (EECS)](https://github.com/eda-ricercatore/eecs-stem-outreach)
+
 [Random notes on collaboration networks, including my Erdős number](./altrui/collaboration-dist.md)
 
 [Random notes about social networks: A complex systems perspective](./altrui/social-networks.md)
