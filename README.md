@@ -46,6 +46,9 @@ Other helpful information:
 
 [**View this in my *GitHub* repository**](https://github.com/eda-ricercatore/eda-ricercatore.github.io)
 
+
+#	[**View this in my *GitHub* repository**](https://github.com/eda-ricercatore/eda-ricercatore.github.io)
+
 #	Writing Style
 
 ***LaTeX* notation shall be used for typesetting information that cannot
