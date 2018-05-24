@@ -30,6 +30,27 @@ X. Ma, **Z. Ong**, A. Aziz, and W. Nowinski, "Smart Catheter for Interventional 
 
 
 
+##	Research/Grant Proposals
+
+Prateek Tandon, Alex Mitev, Stanley Lam, Ben Shih, Zhiyang Ong, "Quantum
+	Adiabatic Implementation of the Quadratic Traveling Salesman Problem
+	(QTSP) and Applications," submitted to a [*Request for Proposal*](http://www.usra.edu/quantum/rfp/QuAIL_RFP_Cycle3.pdf)
+	by the [Quantum Artificial Intelligence Laboratory (NASA's Ames Research Center, Google, and the Universities Space Research Association)](http://www.usra.edu/quantum/rfp/), 2017. **Status: Accepted.** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
