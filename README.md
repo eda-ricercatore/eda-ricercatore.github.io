@@ -51,6 +51,12 @@ Other helpful information:
 #	[**View this in my *GitHub* repository**](https://github.com/eda-ricercatore/eda-ricercatore.github.io)
 
 
+[You can also view *GitHub* profile to access other *GitHub* repositories for my
+	projects.](https://github.com/eda-ricercatore)
+
+
+
+
 ---
 
 
