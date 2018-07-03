@@ -79,12 +79,9 @@ Also, no matter your current schedule - whether you are a student, working
 
 ##	Contact Information
 
-[If you are interested in joining the Secure ASIP Design Automation Group, please kindly email me using the email address found in this link.](../altrui/contact-information.md)
+If you are interested in joining the Secure ASIP Design Automation Group, please kindly email me using the email address found below.
 
-
-
-
-
+	echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wuz2y of the Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","domain"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmc/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'r' | tr y "\n"
 
 
 #	Return to Home Page
