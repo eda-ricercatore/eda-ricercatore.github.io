@@ -53,7 +53,7 @@ It is an informal group that convenes online to present and discuss topics relat
 
 
 
-## Goals of the ASIP Design Automation Group
+## Goals of the Secure ASIP Design Automation Group
 
 To publish peer-reviewed conference or journal papers based on selected research topic(s).
 
@@ -73,6 +73,13 @@ Also, no matter your current schedule - whether you are a student, working
 	We are committed to inclusive diversity, and we will endeavor to
 		accommodate you.
 
+
+
+
+
+##	Contact Information
+
+[If you are interested in joining the Secure ASIP Design Automation Group, please kindly email me using the email address found in this link.](./altrui/contact-information.md)
 
 
 
