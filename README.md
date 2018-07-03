@@ -29,13 +29,17 @@
 
 [My email address is found in this link.](./altrui/contact-information.md)
 
-##	Miscellaneous Information
+#	Miscellaneous Information
+
+##	Outreach resources
+
 
 [**Resources (including scholarships) for broadening participation of women an underrepresented groups in science and engineering, especially electrical/computer engineering and computer science (EECS)**](https://github.com/eda-ricercatore/eecs-stem-outreach)
 
 
 These aforementioned resources also include speeches that I wrote and gave at opening and closing ceremonies of a retention program, *MSC CAMAC's Mi Casa Es Su Casa* program, for Latinx and first-generation college students at Texas A&M University. 
 
+##	Notes and Other Resources
 
 [Random notes on collaboration networks, including my Erdős number](./altrui/collaboration-dist.md)
 
@@ -79,6 +83,7 @@ Other helpful information:
 	be adequately expressed in *Markdown*.**
 
 **Similarly, *BibTeX* shall be used to cite resources used.**
+
 
 
 #	Old Projects
