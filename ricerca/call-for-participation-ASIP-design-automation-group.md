@@ -79,7 +79,7 @@ Also, no matter your current schedule - whether you are a student, working
 
 ##	Contact Information
 
-[If you are interested in joining the Secure ASIP Design Automation Group, please kindly email me using the email address found in this link.](./altrui/contact-information.md)
+[If you are interested in joining the Secure ASIP Design Automation Group, please kindly email me using the email address found in this link.](../altrui/contact-information.md)
 
 
 
