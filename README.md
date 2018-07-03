@@ -49,6 +49,13 @@ Other helpful information:
 + [Use *Print Friendly & PDF* to print web pages \cite{Norrish20XY}](https://www.printfriendly.com) 
 
 
+###	Preliminary Call for Participation: Secure ASIP Design Automation Group
+
+[Preliminary Call for Participation: Secure ASIP Design Automation Group](./ricerca/call-for-participation-ASIP-design-automation-group.md)
+
+
+
+
 ---
 
 
