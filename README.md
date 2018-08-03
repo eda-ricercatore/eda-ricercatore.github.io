@@ -17,7 +17,7 @@
 + Noise-based logic
 + Electronic design automation
 + Formal verification
-+ Satisfiability modulo theories 
++ Satisfiability modulo theories
 + Microarchitecture
 
 ##	Research Publications
@@ -37,7 +37,7 @@
 [**Resources (including scholarships) for broadening participation of women an underrepresented groups in science and engineering, especially electrical/computer engineering and computer science (EECS)**](https://github.com/eda-ricercatore/eecs-stem-outreach)
 
 
-These aforementioned resources also include speeches that I wrote and gave at opening and closing ceremonies of a retention program, *MSC CAMAC's Mi Casa Es Su Casa* program, for Latinx and first-generation college students at Texas A&M University. 
+These aforementioned resources also include speeches that I wrote and gave at opening and closing ceremonies of a retention program, *MSC CAMAC's Mi Casa Es Su Casa* program, for Latinx and first-generation college students at Texas A&M University.
 
 ##	Notes and Other Resources
 
@@ -50,7 +50,12 @@ These aforementioned resources also include speeches that I wrote and gave at op
 [Presentation slides for various talks/presentations that I have given](https://github.com/eda-ricercatore/scafati-presentazioni)
 
 Other helpful information:
-+ [Use *Print Friendly & PDF* to print web pages \cite{Norrish20XY}](https://www.printfriendly.com) 
++ [Use *Print Friendly & PDF* to print web pages \cite{Norrish20XY}](https://www.printfriendly.com)
++ Study notes
+	- [Python, and generic programming (generics)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md)
++ [*Call for Paper/Participation* deadlines](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/deadlines.md)
++ Miscellaneous notes
+	- [Notes about declaratively specifying and drawing diagrams])(https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/drawing-graphics.md) and [baklava-graphics: A repository for experimenting with drawing figures/graphics with computer languages.](https://github.com/eda-ricercatore/baklava-graphics)
 
 
 ###	Preliminary Call for Participation: Secure ASIP Design Automation Group
@@ -99,7 +104,7 @@ Other helpful information:
 #	References
 
 **Primarily, I used *Markdown* to design/develop this web page
-	\cite{Nguyen2014}.** 
+	\cite{Nguyen2014}.**
 
 **I used \cite{Xie2017,Gruber2004} as references for *Markdown*.**
 
@@ -126,4 +131,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
-
