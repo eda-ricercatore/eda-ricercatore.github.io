@@ -56,6 +56,7 @@ Other helpful information:
 + [*Call for Paper/Participation* deadlines](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/deadlines.md)
 + Miscellaneous notes
 	- [Notes about declaratively specifying and drawing diagrams])(https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/drawing-graphics.md) and [baklava-graphics: A repository for experimenting with drawing figures/graphics with computer languages.](https://github.com/eda-ricercatore/baklava-graphics)
+	- [Notes about the English language](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/inglese.md)
 
 
 ###	Preliminary Call for Participation: Secure ASIP Design Automation Group
