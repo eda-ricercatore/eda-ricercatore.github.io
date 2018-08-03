@@ -53,10 +53,21 @@ Other helpful information:
 + [Use *Print Friendly & PDF* to print web pages \cite{Norrish20XY}](https://www.printfriendly.com)
 + Study notes
 	- [Python, and generic programming (generics)](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/python.md)
+	- [Notes about *Scala*, sardegna-scala](https://github.com/eda-ricercatore/sardegna-scala)
+	- [Notes about *R*, rosario-r](https://github.com/eda-ricercatore/rosario-r)
+	- [Notes about *GNU Octave*, gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md)
+	- [Notes about *LaTeX*, SienaLaTeX](https://github.com/eda-ricercatore/SienaLaTeX)
+	- [Notes about using UML to model real world systems, networks, and phenomena](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md)
+	- [Notes about *Ruby*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/ruby.md)
+	- [Information about *Texinfo*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/texinfo.md)
 + [*Call for Paper/Participation* deadlines](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/deadlines.md)
 + Miscellaneous notes
 	- [Notes about declaratively specifying and drawing diagrams](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/drawing-graphics.md) and [baklava-graphics: A repository for experimenting with drawing figures/graphics with computer languages.](https://github.com/eda-ricercatore/baklava-graphics)
+	- [Notes about the Markdown Syntax](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/markdown-syntax.md)
 	- [Notes about the English language](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/inglese.md)
+	- *UNIX*-like Operating Systems:
+		* [Generic information for using *UNIX*-like operating systems; boilerplate-code](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/unix-information.md)
+		* [Information for SSH connections, via the aforementioned OSes.](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/ssh_unix_cmds.md)
 
 
 ###	Preliminary Call for Participation: Secure ASIP Design Automation Group
