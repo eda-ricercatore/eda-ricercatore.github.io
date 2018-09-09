@@ -1,6 +1,6 @@
 #	Call for Co-Organization of Hardware Security Problems for Research Contests
 
-## Benchmarks for ISPD Contest and CAD Contest @ ICCAD
+## Benchmark Suites for ISPD Contest and CAD Contest @ ICCAD
 
 Dear Distinguished Researchers, Professors, and Students,
 

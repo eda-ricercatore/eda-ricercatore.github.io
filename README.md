@@ -70,9 +70,15 @@ Other helpful information:
 		* [Information for SSH connections, via the aforementioned OSes.](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/ssh_unix_cmds.md)
 
 
+##	Calls for Participation
+
 ###	Preliminary Call for Participation: Secure ASIP Design Automation Group
 
 [Preliminary Call for Participation: Secure ASIP Design Automation Group](./ricerca/call-for-participation-ASIP-design-automation-group.md)
+
+###	Call for Co-Organization of Hardware Security Problems for Research Contests
+
+[Call for co-organization of hardware security problems for research contests, including benchmark suites for the ISPD Contest and the CAD Contest @ ICCAD](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/ricerca/call-for-co-organization-of-hardware-security-problems-benchmarks.md)
 
 
 
