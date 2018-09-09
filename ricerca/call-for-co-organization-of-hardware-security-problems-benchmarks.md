@@ -1,4 +1,4 @@
-#	Co-Organization of Hardware Security Problems for Research Contests
+#	Call for Co-Organization of Hardware Security Problems for Research Contests
 
 ## Benchmarks for ISPD Contest and CAD Contest @ ICCAD
 
