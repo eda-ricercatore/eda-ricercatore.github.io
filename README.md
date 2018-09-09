@@ -69,6 +69,18 @@ Other helpful information:
 		* [Generic information for using *UNIX*-like operating systems; boilerplate-code](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/unix-information.md)
 		* [Information for SSH connections, via the aforementioned OSes.](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/ssh_unix_cmds.md)
 + [Guidelines and suggestions for collaborating with others, including myself](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/guidelines/guidelines.pdf)
+	- To access the *LaTeX* source code for the document containing guidelines
+		for collaborating with others, including an associated *Makefile*,
+		see the [Guidelines for Collaboration repository](https://github.com/eda-ricercatore/boilerplate-code/tree/master/notes/guidelines).
+
+
+
+
+
+
+
+
+
 
 
 
