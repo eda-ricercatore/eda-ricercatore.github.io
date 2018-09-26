@@ -68,10 +68,10 @@ Other helpful information:
 	- *UNIX*-like Operating Systems:
 		* [Generic information for using *UNIX*-like operating systems; boilerplate-code](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/unix-information.md)
 		* [Information for SSH connections, via the aforementioned OSes.](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/ssh_unix_cmds.md)
-+ [Guidelines and suggestions for collaborating with others, including myself](https://github.com/eda-ricercatore/boilerplate-code/blob/master/notes/guidelines/guidelines.pdf)
++ [Guidelines and suggestions for collaborating with others, including myself](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/guidelines/guidelines.pdf)
 	- To access the *LaTeX* source code for the document containing guidelines
 		for collaborating with others, including an associated *Makefile*,
-		see the [Guidelines for Collaboration repository](https://github.com/eda-ricercatore/boilerplate-code/tree/master/notes/guidelines).
+		see the [Guidelines for Collaboration repository](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/guidelines).
 
 
 
@@ -128,7 +128,13 @@ Other helpful information:
 [My list of old projects can be found here.](./vecchi-progetti/old-projects.md)
 
 
+#	Work in Progress
 
++ [gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts)
++ [bibtex-analytics](https://github.com/eda-ricercatore/bibtex-analytics)
++ [2018-wannabe-postdoc-1 (Genetic Technology Mapping)](https://github.com/BDAthlon/2018-wannabe-postdoc-1)
++ [2018-wannabe-postdoc-2 (Genetic Circuit Tuning)](https://github.com/BDAthlon/2018-wannabe-postdoc-2)
++ [boilerplate-code](https://github.com/eda-ricercatore/boilerplate-code)
 
 
 
