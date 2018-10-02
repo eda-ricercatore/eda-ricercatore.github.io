@@ -94,7 +94,7 @@ Other helpful information:
 
 [Call for co-organization of hardware security problems for research contests, including benchmark suites for the ISPD Contest and the CAD Contest @ ICCAD](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/ricerca/call-for-co-organization-of-hardware-security-problems-benchmarks.md)
 
-
+Check out this [respository for research contests that I am trying to co-organize](https://github.com/eda-ricercatore/research-contests).
 
 
 ---
