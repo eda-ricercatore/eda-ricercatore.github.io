@@ -80,7 +80,7 @@ Other helpful information:
 		see the [Guidelines for Collaboration repository](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/guidelines).
 
 
-		Maxwell-Faraday equation (Faraday's law of induction): <img src="/tex/a8c15f915024bdd3f10e6e5da2e503a7.svg?invert_in_darkmode&sanitize=true" align=middle width=202.31309174999998pt height=28.92634470000001pt/>
+Maxwell-Faraday equation (Faraday's law of induction): <p align="center"><img src="/tex/fae8bb729ecf9e6c89d9eca2c87ef597.svg?invert_in_darkmode&sanitize=true" align=middle width=210.47583314999997pt height=40.39034175pt/></p>
 
 
 
