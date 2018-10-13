@@ -80,7 +80,7 @@ Other helpful information:
 		see the [Guidelines for Collaboration repository](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/guidelines).
 
 
-		Maxwell-Faraday equation (Faraday's law of induction): $\mathbf{\oint_{\partial\sum}\ E \cdot} d\mathbf{l} = -\frac{d}{dt} \iint_{\sum} \mathbf{B} \cdot d\mathbf{S}$
+Maxwell-Faraday equation (Faraday's law of induction): $$\mathbf{\oint_{\partial\sum}\ E \cdot} d\mathbf{l} = -\frac{d}{dt} \iint_{\sum} \mathbf{B} \cdot d\mathbf{S}$$
 
 
 
