@@ -87,7 +87,7 @@ Other helpful information:
 	- [Notes about *R*, rosario-r](https://github.com/eda-ricercatore/rosario-r)
 	- [Notes about *GNU Octave*, gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md)
 	- [Notes about *LaTeX*, SienaLaTeX](https://github.com/eda-ricercatore/SienaLaTeX), so that you can
-	typeset mathematical equations, like Maxwell-Faraday equation (Faraday's law of induction) $\mathbf{\oint_{\partial\sum}\ E \cdot} d\mathbf{l} = -\frac{d}{dt} \iint_{\sum} \mathbf{B} \cdot d\mathbf{S}$
+	typeset mathematical equations
 	- [Notes about using UML to model real world systems, networks, and phenomena](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md)
 	- [Notes about *Ruby*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/ruby.md)
 	- [Information about *Texinfo*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/texinfo.md)
@@ -105,7 +105,7 @@ Other helpful information:
 		see the [Guidelines for Collaboration repository](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/guidelines).
 
 
-
+		Maxwell-Faraday equation (Faraday's law of induction): $\mathbf{\oint_{\partial\sum}\ E \cdot} d\mathbf{l} = -\frac{d}{dt} \iint_{\sum} \mathbf{B} \cdot d\mathbf{S}$
 
 
 
