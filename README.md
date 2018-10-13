@@ -50,7 +50,7 @@ These aforementioned resources also include speeches that I wrote and gave at op
 In *Markdown*, you can use *LaTeX* to typeset mathematical equations, such as Maxwell-Faraday equation (Faraday's law of induction): <p align="center"><img src="/tex/fae8bb729ecf9e6c89d9eca2c87ef597.svg?invert_in_darkmode&sanitize=true" align=middle width=210.47583314999997pt height=40.39034175pt/></p>.
 For *GitHub* users, they can use the *GitHub* App
 	[TeXify](https://github.com/apps/texify) to transform *LaTeX* expressions in
-			*.tex.md
+		*.tex.md
 files, and render their *LaTeX* expressions as embedded SVG images in the
 transformed *Markdown* documents.
 This requires write access to (a specified subset of) your repositories,
