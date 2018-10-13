@@ -47,6 +47,14 @@ These aforementioned resources also include speeches that I wrote and gave at op
 
 [A repository for my *LaTeX* templates](https://github.com/eda-ricercatore/SienaLaTeX). This contains templates for *LaTeX* documents that I tend to create, *LaTeX* structures that I tend to use (such as tables, lists, and figures), and *LaTeX* commands.
 
+In *Markdown*, you can use *LaTeX* to typeset mathematical equations, such as Maxwell-Faraday equation (Faraday's law of induction): $$\mathbf{\oint_{\partial\sum}\ E \cdot} d\mathbf{l} = -\frac{d}{dt} \iint_{\sum} \mathbf{B} \cdot d\mathbf{S}$$.
+For *GitHub* users, they can use the *GitHub* App
+	[TeXify](https://github.com/apps/texify) to transform *LaTeX* expressions in
+		*.tex.md
+	files, and render their *LaTeX* expressions as embedded SVG images in the
+	transformed *Markdown* documents.
+
+
 [Presentation slides for various talks/presentations that I have given](https://github.com/eda-ricercatore/scafati-presentazioni)
 
 Other helpful information:
@@ -56,8 +64,7 @@ Other helpful information:
 	- [Notes about *Scala*, sardegna-scala](https://github.com/eda-ricercatore/sardegna-scala)
 	- [Notes about *R*, rosario-r](https://github.com/eda-ricercatore/rosario-r)
 	- [Notes about *GNU Octave*, gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md)
-	- [Notes about *LaTeX*, SienaLaTeX](https://github.com/eda-ricercatore/SienaLaTeX), so that you can
-	typeset mathematical equations
+	- [Notes about *LaTeX*, SienaLaTeX](https://github.com/eda-ricercatore/SienaLaTeX)
 	- [Notes about using UML to model real world systems, networks, and phenomena](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md)
 	- [Notes about *Ruby*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/ruby.md)
 	- [Information about *Texinfo*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/texinfo.md)
@@ -75,7 +82,7 @@ Other helpful information:
 		see the [Guidelines for Collaboration repository](https://github.com/eda-ricercatore/gulyas-scripts/tree/master/notes/guidelines).
 
 
-Maxwell-Faraday equation (Faraday's law of induction): $$\mathbf{\oint_{\partial\sum}\ E \cdot} d\mathbf{l} = -\frac{d}{dt} \iint_{\sum} \mathbf{B} \cdot d\mathbf{S}$$
+
 
 
 
