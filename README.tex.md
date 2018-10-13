@@ -51,7 +51,7 @@ In *Markdown*, you can use *LaTeX* to typeset mathematical equations, such as Ma
 For *GitHub* users, they can use the *GitHub* App
 	[TeXify](https://github.com/apps/texify) to transform *LaTeX* expressions in
 
-		*.tex.md
+			*.tex.md
 
 	files, and render their *LaTeX* expressions as embedded SVG images in the
 	transformed *Markdown* documents.
