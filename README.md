@@ -1,3 +1,33 @@
+<script type="text/x-mathjax-config">
+
+MathJax.Hub.Config({
+
+    tex2jax: {
+
+        inlineMath: [['$','$'], ['\\(','\\)']],
+
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+
+    }
+
+});
+
+MathJax.Hub.Queue(function() {
+
+    var all = MathJax.Hub.getAllJax(), i;
+
+    for(i = 0; i < all.length; i += 1) {
+
+        all[i].SourceElement().parentNode.className += ' has-jax';
+
+    }
+
+});
+
+</script>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 #	Personal Information
 
 ##	Biography
@@ -56,7 +86,8 @@ Other helpful information:
 	- [Notes about *Scala*, sardegna-scala](https://github.com/eda-ricercatore/sardegna-scala)
 	- [Notes about *R*, rosario-r](https://github.com/eda-ricercatore/rosario-r)
 	- [Notes about *GNU Octave*, gulyas-scripts](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/gnu-octave.md)
-	- [Notes about *LaTeX*, SienaLaTeX](https://github.com/eda-ricercatore/SienaLaTeX)
+	- [Notes about *LaTeX*, SienaLaTeX](https://github.com/eda-ricercatore/SienaLaTeX), so that you can
+	typeset mathematical equations, like Maxwell-Faraday equation (Faraday's law of induction) $\mathbf{\oint_{\partial\sum}\ E \cdot} d\mathbf{l} = -\frac{d}{dt} \iint_{\sum} \mathbf{B} \cdot d\mathbf{S}$
 	- [Notes about using UML to model real world systems, networks, and phenomena](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/uml.md)
 	- [Notes about *Ruby*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/ruby.md)
 	- [Information about *Texinfo*](https://github.com/eda-ricercatore/gulyas-scripts/blob/master/notes/texinfo.md)
