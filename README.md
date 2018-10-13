@@ -47,17 +47,6 @@ These aforementioned resources also include speeches that I wrote and gave at op
 
 [A repository for my *LaTeX* templates](https://github.com/eda-ricercatore/SienaLaTeX). This contains templates for *LaTeX* documents that I tend to create, *LaTeX* structures that I tend to use (such as tables, lists, and figures), and *LaTeX* commands.
 
-In *Markdown*, you can use *LaTeX* to typeset mathematical equations, such as Maxwell-Faraday equation (Faraday's law of induction): <p align="center"><img src="/tex/fae8bb729ecf9e6c89d9eca2c87ef597.svg?invert_in_darkmode&sanitize=true" align=middle width=210.47583314999997pt height=40.39034175pt/></p>.
-For *GitHub* users, they can use the *GitHub* App
-	[TeXify](https://github.com/apps/texify) to transform *LaTeX* expressions
-	in **\*.tex.md** files, and render their *LaTeX* expressions as embedded
-	SVG images in the transformed *Markdown* documents.
-This requires write access to (a specified subset of) your repositories,
-	so that it can update your repositories with the transformed
-	*Markdown* documents and SVG files.
-It also takes a fairly short delay to transform *Markdown* documents.
-
-
 [Presentation slides for various talks/presentations that I have given](https://github.com/eda-ricercatore/scafati-presentazioni)
 
 Other helpful information:
@@ -179,4 +168,4 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print <img src="/tex/952813badbf2b7576646219a3be09d7a.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=21.18721440000001pt/>2, <img src="/tex/72fa79587e23f949fc0a13b2deb0cb7b.svg?invert_in_darkmode&sanitize=true" align=middle width=298.6890786pt height=24.65753399999998pt/>9, <img src="/tex/d5c8de2e8067c0eef4d32514455a73cf.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=21.18721440000001pt/>6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
+Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
