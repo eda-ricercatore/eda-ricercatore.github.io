@@ -53,12 +53,12 @@ For *GitHub* users, they can use the *GitHub* App
 
 			*.tex.md
 
-	files, and render their *LaTeX* expressions as embedded SVG images in the
-	transformed *Markdown* documents.
-	This requires write access to (a specified subset of) your repositories,
-		so that it can update your repositories with the transformed
-		*Markdown* documents and SVG files.
-	It also takes a fairly short delay to transform *Markdown* documents.
+files, and render their *LaTeX* expressions as embedded SVG images in the
+transformed *Markdown* documents.
+This requires write access to (a specified subset of) your repositories,
+	so that it can update your repositories with the transformed
+	*Markdown* documents and SVG files.
+It also takes a fairly short delay to transform *Markdown* documents.
 
 
 [Presentation slides for various talks/presentations that I have given](https://github.com/eda-ricercatore/scafati-presentazioni)
