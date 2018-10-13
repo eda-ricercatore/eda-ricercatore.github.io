@@ -47,7 +47,7 @@ These aforementioned resources also include speeches that I wrote and gave at op
 
 [A repository for my *LaTeX* templates](https://github.com/eda-ricercatore/SienaLaTeX). This contains templates for *LaTeX* documents that I tend to create, *LaTeX* structures that I tend to use (such as tables, lists, and figures), and *LaTeX* commands.
 
-In *Markdown*, you can use *LaTeX* to typeset mathematical equations, such as Maxwell-Faraday equation (Faraday's law of induction): $$\mathbf{\oint_{\partial\sum}\ E \cdot} d\mathbf{l} = -\frac{d}{dt} \iint_{\sum} \mathbf{B} \cdot d\mathbf{S}$$.
+In *Markdown*, you can use *LaTeX* to typeset mathematical equations, such as Maxwell-Faraday equation (Faraday's law of induction): $$\mathbf{\oint_{\partial\sum}\ E \cdot} d\mathbf{l} = -\frac{d}{dt} \iint_{\sum} \mathbf{B} \cdot d\mathbf{S}$$
 For *GitHub* users, they can use the *GitHub* App
 	[TeXify](https://github.com/apps/texify) to transform *LaTeX* expressions
 	in **\*.tex.md** files, and render their *LaTeX* expressions as embedded
