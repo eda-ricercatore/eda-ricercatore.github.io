@@ -3,8 +3,9 @@
 
 ##	Projects In Data Science, Machine Learning, and Pattern Recognition
 
+[Project Report for the Application of Pattern Recognition with Genomic Expression Data Set](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/vecchi-progetti/data-science-projects/chehao_and_zhiyang_report.pdf)
 
-
+This report commences with a brief description of the pattern recognition framework and tech- niques for predicting the survival rates of cancer patients. The main stages for our implementation of a pattern recognition system are: feature selection, classifier design, and error estimation. Next, it lists the experimental results that have been obtained, and includes a discussion of these experi- mental results.
 
 
 
