@@ -1,5 +1,15 @@
 #	Old Projects
 
+
+##	Projects In Data Science, Machine Learning, and Pattern Recognition
+
+
+
+
+
+
+
+
 ##	VLSI Design Projects
 
 
@@ -57,11 +67,11 @@ See [sram.pdf](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob
 
 
 
-###	Digital Electronic Circuit for Sorting Numbers 
+###	Digital Electronic Circuit for Sorting Numbers
 
 Sample *Python* script to generate synthesizable behavioral RTL for a digital combinational circuit to sort numbers (a list of integers). The RTL model for this circuit is based on the size of the list of integers (x), and the magnitude of the largest number in the list (y). File to generate to random numbers: [random_numbers.py](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/vecchi-progetti/sorting-circuits/random_numbers.py); and file to generate the behavioral RTL and its corresponding *Verilog* testbench [create.py](https://github.com/eda-ricercatore/eda-ricercatore.github.io/blob/master/vecchi-progetti/sorting-circuits/create.py)
 
-Both *Python* scripts require the arguments x and y. Also, random_numbers.py generates an output file named numbers.txt, and the second script produces the files gensort.v (behavioral RTL) and gensorttb.v (testbench). It is assumed that the testbench reads in the file numbers.txt as the input file. If the input file containing a list of numbers to be sorted changes, this must be updated and reflected in the testbench and the Python script generating it. 
+Both *Python* scripts require the arguments x and y. Also, random_numbers.py generates an output file named numbers.txt, and the second script produces the files gensort.v (behavioral RTL) and gensorttb.v (testbench). It is assumed that the testbench reads in the file numbers.txt as the input file. If the input file containing a list of numbers to be sorted changes, this must be updated and reflected in the testbench and the Python script generating it.
 
 
 ### Encoders and their Corresponding Error Correcting Decoders Based on Coding Theory
@@ -82,11 +92,11 @@ The behavioral *VHDL* design of an unsigned 32-bit multiplier and its testbench 
 
 
 
-###	Cycle-accurate SystemC Design of a Content-Addressable Memory (CAM) 
+###	Cycle-accurate SystemC Design of a Content-Addressable Memory (CAM)
 
 Electronic system-level (ESL) implementation of a content-addressable memory (CAM). Source code for the cycle-accurate *SystemC* model of the CAM: [content_addr_mem.zip](./vlsi-design-projects/content_addr_mem.zip)
 
-This *SystemC* model is not completely verified yet. My ESL design environment crashed spectacularly while I was trying to simulate this design under a considerably extensive set of design conditions. 
+This *SystemC* model is not completely verified yet. My ESL design environment crashed spectacularly while I was trying to simulate this design under a considerably extensive set of design conditions.
 
 
 
@@ -142,7 +152,7 @@ A signal is frequency modulated FM, and transmitted across a noisy channel. This
 
 
 
-##	Samples of Technical Writing 
+##	Samples of Technical Writing
 
 
 ###	Crosstalk-aware Gate Sizing using Simulated Annealing
@@ -162,7 +172,7 @@ I was required to write a report for my internship at *Symantec*. I proposed to 
 
 When I took the class titled, "Introduction to Software Engineering" at my alma mater, the University of Adelaide, my curiosity was piqued by how the concepts that I learned in software verification, validation, and testing can also be applied to testing electronics. I was also fortunate to be introduced to formal methods by [Dr. Charles Lakos](http://cs.adelaide.edu.au/~charles/), and subsequently, formal verification by [Dr. Rob Esser](http://cs.adelaide.edu.au/~esser/) in my "Software Engineering and Project" class; to my knowledge, Dr Esser is currently a director with Xilinx in Ireland.
 
-However, it wasn't until the winter break of 2004, when I buried myself in the Barr Smith Library, and browsed through "random" journals, conference proceedings, and magazines that I started to delve into looking how similar software engineering and VLSI design are. I was initially looking for material for various topics that I can pick for my Honours/senior thesis, or garner ideas about areas that I would like to do research in when I go to graduate school. 
+However, it wasn't until the winter break of 2004, when I buried myself in the Barr Smith Library, and browsed through "random" journals, conference proceedings, and magazines that I started to delve into looking how similar software engineering and VLSI design are. I was initially looking for material for various topics that I can pick for my Honours/senior thesis, or garner ideas about areas that I would like to do research in when I go to graduate school.
 
 
 ###	UNIX Course Notes and Presentation Slides, and FAQs for Sun Solaris and the vi text editor
@@ -186,7 +196,7 @@ In one of my software engineering classes at my alma mater, the University of Ad
 The MazeBot software is a combination of Java software and embedded software written in C that controls the motions of a robot/micromouse around a maze. The robot is supposed to traverse a maze, and map the maze and the Java software hosted on a Sun Solaris workstation should display the map, including the current position and orientation of the robot after some delay. Subsequently, the micromouse should traverse from a corner of the maze to its center and to another corner of the maze selected by the user of the Java software. The use of this software system can interact with it using the GUI (graphical user interface) based on Java Swing.
 
 ###	The Bar Code Innovation
- 
+
  [Paper on innovation that I wrote for a class on introductory engineering management and intellectual property (IP) law](./technical-writing/the_bar_code_innovation.pdf)
 
 Each student, or pair of students, had to pick an innovation to write about. My teammate, Ben Kaye, and I decided to work on the bar code, which is an ingenious innovation. It is pervasive and exists in most products sold in stores. It had grown from an infeasible idea to becoming a cost-effective solution for managing the supply chain. It is a cheap technology that has brought about dramatic cost savings for inventory management and the retail industry... For me, this is another exposure to the use of simple solutions in solving complex problems. Unfortunately, I am still learning how to develop simpler (and more elegant) solutions for solving problems, rather build magic/silver bullets or one-size-fit-all solution.   
@@ -197,7 +207,7 @@ Each student, or pair of students, had to pick an innovation to write about. My 
 
 ###	Colpitts oscillator
 
-During one of the experimental sessions that I had to do as a sophomore in electronic circuits, control systems, RF hardware and systems, I had to design a Colpitts oscillator with a classmate. It is designed to operate at 20 MHz, and has a percentage total harmonic distortion (%THD) of about 1.3%; see [hfo3.pdf](./technical-writing/hfo3.pdf) 
+During one of the experimental sessions that I had to do as a sophomore in electronic circuits, control systems, RF hardware and systems, I had to design a Colpitts oscillator with a classmate. It is designed to operate at 20 MHz, and has a percentage total harmonic distortion (%THD) of about 1.3%; see [hfo3.pdf](./technical-writing/hfo3.pdf)
 
 
 
@@ -232,4 +242,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Email address: echo "cukj -wb- 23wU4X5M589 TROJANS cqkH wiuz2y 0f Mw Stanford" | awk '{ sub("23wU4X5M589","F.d_c_b. ") sub("Stanford","d0mA1n"); print $5, $2, $8; for (i=1; i<=1; i++) print "6\b"; print $9, $7, $6 }' | sed y/kqcbuHwM62z/gnotrzadqmC/ | tr 'q' ' ' | tr -d [:cntrl:] | tr -d 'ir' | tr y "\n"		Don't compromise my computing accounts. You have been warned.
-
