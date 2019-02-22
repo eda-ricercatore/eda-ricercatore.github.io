@@ -3,7 +3,7 @@
 ##	Biography
 
 **Zhiyang Ong is:**
-+ A cultural chameleon
++ A venturesome cultural chameleon
 + A third culture adult
 + A multilingual globetrotter
 + A global citizen
