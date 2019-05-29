@@ -2,6 +2,8 @@
 
 ##	Biography
 
+Zhiyang Ong is a globetrotting, venturesome cultural chameleon tackling challenges using a skill set that spans electrical engineering and computer science. He is a Ph.D. student at Texas A&M University's electrical & computer engineering department. He is currently working on noise-based logic and embedded deep learning, and had worked on problems in satisfiability modulo theories, electronic design automation, and VLSI formal verification. He has also design multiple VLSI circuits and systems, from SRAMs and processors to a Viterbi decoder and a tree adder.
+
 **Zhiyang Ong is:**
 + A venturesome cultural chameleon
 + A third culture adult
