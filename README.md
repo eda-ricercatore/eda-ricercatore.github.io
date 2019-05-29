@@ -2,7 +2,10 @@
 
 ##	Biography
 
-Zhiyang Ong is a globetrotting, venturesome cultural chameleon tackling challenges using a skill set that spans electrical engineering and computer science. He is a Ph.D. student at Texas A&M University's electrical & computer engineering department. He is currently working on noise-based logic and embedded deep learning, and had worked on problems in satisfiability modulo theories, electronic design automation, and VLSI formal verification. He has also design multiple VLSI circuits and systems, from SRAMs and processors to a Viterbi decoder and a tree adder.
+Zhiyang Ong is a globetrotting, venturesome cultural chameleon tackling challenges using a skill set that spans electrical engineering and computer science. He is a Ph.D. student at Texas A&M University's electrical & computer engineering department. He is currently working on noise-based logic and embedded deep learning, and had worked on problems in satisfiability modulo theories, electronic design automation, and VLSI formal verification. He has also design multiple VLSI circuits and systems, from SRAMs and processors to a Viterbi decoder and a tree adder. In his free time, he is working on solving the Quadratic Travelling Salesman Problem (QTSP) with his research collaborators, using an adiabatic quantum computer from D-Wave Systems. He is also a member of MSC CAMAC (at Texas A&M University), which plans and hosts events to celebrate traditions of different Latinx subcultures as well as raises awareness of issues facing the Latinx community on campus and in the surrounding community.
+
+
+
 
 **Zhiyang Ong is:**
 + A venturesome cultural chameleon
@@ -11,8 +14,11 @@ Zhiyang Ong is a globetrotting, venturesome cultural chameleon tackling challeng
 + A global citizen
 + An *IEEE-HKN* member
 + A poet
-+ A former student athlete
++ A former student athlete -- He ran track and cross country at the University of Adelaide, and ran cross country at the University of Southern California.
 + A former squatter in the Bihari backwaters of electronic design automation
+
+
+
 
 ##	Research Interests
 
@@ -21,6 +27,9 @@ Zhiyang Ong is a globetrotting, venturesome cultural chameleon tackling challeng
 + Formal verification
 + Satisfiability modulo theories
 + Microarchitecture
+
+
+
 
 ##	Research Publications
 
