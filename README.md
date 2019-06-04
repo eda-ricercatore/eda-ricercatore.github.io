@@ -60,10 +60,15 @@ Zhiyang Ong is a globetrotting, venturesome cultural chameleon tackling challeng
 ##	Outreach resources
 
 
-[**Resources (including scholarships) for broadening participation of women an underrepresented groups in science and engineering, especially electrical/computer engineering and computer science (EECS)**](https://github.com/eda-ricercatore/eecs-stem-outreach)
+[**Resources (including scholarships) for broadening participation of women an underrepresented groups in science and engineering, especially electrical/computer engineering and computer science (EECS)**](https://eda-ricercatore.github.io/eecs-stem-outreach/)
 
 
 These aforementioned resources also include speeches that I wrote and gave at opening and closing ceremonies of a retention program, *MSC CAMAC's Mi Casa Es Su Casa* program, for Latinx and first-generation college students at Texas A&M University.
+
+[Additional resources](https://github.com/eda-ricercatore/eecs-stem-outreach):
++ [Suggestions for Writing Research Proposals to Get Funding](https://github.com/eda-ricercatore/eecs-stem-outreach/blob/master/others/suggestions-for-research-proposal-writing-to-get-funding.md)
++ [Suggestions for IEEE and ACM Members to Create Research Funding for Women](https://github.com/eda-ricercatore/eecs-stem-outreach/blob/master/others/suggestions-for-IEEE-and-ACM-to-create-research-funding.md)
+
 
 ##	Notes and Other Resources
 
