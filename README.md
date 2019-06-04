@@ -22,6 +22,8 @@ Zhiyang Ong is a globetrotting, venturesome cultural chameleon tackling challeng
 
 ##	Research Interests
 
+###	Current/Recent Research Interests
+
 + Noise-based logic
 + Embedded computer vision
 + Deep learning
@@ -29,6 +31,17 @@ Zhiyang Ong is a globetrotting, venturesome cultural chameleon tackling challeng
 + Formal verification
 + Satisfiability modulo theories
 + Microarchitecture
+
+###	Former Research Interests
+
++ Complex systems
++ Network science
++ Evolutionary computation
++ Network optimization
++ Multi-objective optimization
+
+
+
 
 
 
