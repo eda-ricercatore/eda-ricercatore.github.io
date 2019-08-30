@@ -5,7 +5,7 @@ function communications = commass051b% (sig, pr)
 % Base units are: MHz for frequency, krad for angular frequencies, dB for power,
 % microseconds for sampling intervals, and V for voltage
 %
-% This is written by Zhiyang Ong, 1085011, for the MATLAB Assignment
+% This is written by Zhiyang Ong, for the MATLAB Assignment
 % of Communications IV (2005), Adelaide University
 
 % Increase the number of decimal places that are used in numerical calculations to avoid
