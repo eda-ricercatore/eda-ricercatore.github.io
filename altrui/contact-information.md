@@ -7,7 +7,9 @@
 
 ##	Alternate Methods to Contact Me
 
-Use [Earn @ Earn.com](https://earn.com/zhiyang/) to message me.
+⚠️ Fix this!!!
+
+Add information (i.e., my public key for OpenPGP or GNU Privacy Guard/GnuPG/GPG) about using Pretty Good Privacy (PGP) for data encryption and decryption.
 
 
 
