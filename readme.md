@@ -18,7 +18,7 @@ Zhiyang Ong is a globetrotting, venturesome cultural chameleon tackling challeng
 + An *IEEE-HKN* member
 + A poet
 + A former student athlete -- He ran track and cross country at the University of Adelaide, and ran cross country at the University of Southern California.
-+ A former squatter in the Bihari backwaters of electronic design automation
++ A former squatter in the backwaters of electronic design automation
 + A volunteer inching the world closer to U.N. Sustainable Development Goals.
 
 
