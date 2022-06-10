@@ -3,6 +3,7 @@
 ## My Erdős number is 5.
 
 ### My path to Paul Erdős is given as follows:
+
 Z. Ong, A. H.-W. Lo, M. Berryman, and D. Abbott, "Multi-objective evolutionary algorithm for investigating the trade-off between pleiotropy and redundancy," in Proceedings of SPIE Complex Systems, vol. 6039, Brisbane, Australia, pp. 237-248, 11-14 December, 2005.
 
  
@@ -26,7 +27,8 @@ Jacques Dixmier, Paul Erdös, and Jean-Louis Nicolas, "Sur le nombre d'invariant
 
 
 ## Collaboration Distance to Albert Einstein: 6  
-Zhiyang Ong coauthored with Derek Abbott  
+
+Zhiyang Ong coauthored with Derek Abbott
 Derek Abbott coauthored with Charles R. Doering  
 Charles R. Doering coauthored with Edward A. Spiegel  
 Edward A. Spiegel coauthored with James L. Anderson  
@@ -38,6 +40,7 @@ Peter Gabriel Bergmann coauthored with Albert Einstein
 
 
 ## Collaboration Distance to Michael S. Waterman: 5  
+
 Zhiyang Ong coauthored with Derek Abbott    
 Derek Abbott coauthored with Cosma Rohilla Shalizi  
 Cosma Rohilla Shalizi coauthored with Wim Hordijk  
